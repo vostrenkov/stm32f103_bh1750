@@ -3,7 +3,6 @@ DebugConfig
 *.tmp
 *.a
 *.o
-*.s
 *.d
 *.crf
 *.lnk
